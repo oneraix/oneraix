@@ -1,4 +1,4 @@
-# Vo Minh Hieu - IT Intern
+# Vo Minh Hieu
 
 ## 👋 About Me
 I am an enthusiastic IT student passionate about software development and problem-solving. Currently, I am seeking an internship opportunity to apply my technical skills and gain hands-on experience in a professional environment.
