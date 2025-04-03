@@ -1,6 +1,6 @@
-# Hey, Have a Good Day! You Can Call Me **Vo Minh Hieu** 👋
+# Hi, Have a Good Day! You Can Call Me **MinHi** 👋
 
-🌏 "Life is a journey of code, are you ready to debug your destiny?"
+🌏 "Simplicity is the pinnacle of complexity. Let’s make the everythings simpler"
 
 ## 🧲 **About Me**
 
