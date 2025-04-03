@@ -6,7 +6,6 @@ Hello! I'm **Vo Minh Hieu**, an enthusiastic IT student with a passion for softw
 ## 🎓 Education
 - **Hutech University** (2021 - 2025)  
   - Major: Information Technology  
-  - **GPA:** 2.99/4.0  
 - **FPT Software** (08/2023)  
   - Agile & Scrum Project Management Certification
 
