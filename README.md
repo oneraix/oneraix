@@ -1,30 +1,28 @@
-# Hey, Have a good day! You can call me Vo Minh Hieu 👋
+# Hey, Have a Good Day! You Can Call Me **Vo Minh Hieu** 👋
 
 🌏 "Life is a journey of code, are you ready to debug your destiny?"
 
+## 🧲 **About Me**
 
-## 🧲 My Info
+🚀 *Coding Enthusiast | Future Cloud Engineer*  
+- 😃 Stepping into the world of *Cloud Engineering*  
+- 🌱 Studying at **HUTECH University** & Exploring at **FPT Software**  
+- 💬 Ask me about *programming, cloud computing, and emerging tech*  
 
-🚀 *Coding Enthusiast | Future Cloud Engineer*
-
-- 😃 I’m currently stepping into the world of *Cloud Engineering*
-- 🌱 Studying at *HUTECH University* & Exploring at *FPT Software*
-- 🌱 Interning at *[Your Internship Company/AWS Vietnam if applicable]*
-- 💬 Ask me about *programming, cloud computing, and emerging tech*
 📫 Reach me at: [vominhhieu1087@gmail.com](mailto:vominhhieu1087@gmail.com)
-)
-- ⚡ Fun facts: *Footballer, Coffee Lover, Tech Explorer*
+
+⚡ **Fun Facts**: *Footballer, Coffee Lover, Tech Explorer*
 
 ---
 
-## 📌 Connect with Me
+## 📌 **Connect with Me**
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/oneraix)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00bfa5?style=for-the-badge&logo=firefox)](your-portfolio-url)
 
 ---
 
-## ⚙ Languages & Tools
+## ⚙ **Languages & Tools**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,12 +38,12 @@
 
 ---
 
-## 🐍 Snake Animation
+## 🐍 **Snake Animation**
 ![Snake animation](https://github.com/oneraix/oneraix/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🔭 GitHub Stats
+## 🔭 **GitHub Stats**
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oneraix&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oneraix&show_icons=true&theme=dark)
@@ -54,5 +52,5 @@
 
 ---
 
-## 🏆 GitHub Trophy
+## 🏆 **GitHub Trophy**
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=oneraix&theme=onedark)
