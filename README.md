@@ -1,6 +1,6 @@
 # Hi, Have a Good Day! You Can Call Me **MinHi** 👋
 
-🌏 "Simplicity is the pinnacle of complexity. Let’s make the everythings simpler"
+🌏 "Simplicity is the pinnacle of complexity. Let’s make everything simpler"
 
 ## 🧲 **About Me**
 
