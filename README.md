@@ -4,8 +4,6 @@
 
 ## 🧲 **About Me**
 
-🚀 *Coding Enthusiast | Future Cloud Engineer*  
-- 😃 Stepping into the world of *Cloud Engineering*  
 - 🌱 Studying at **HUTECH University** & Exploring at **FPT Software**  
 - 💬 Ask me about *programming, cloud computing, and emerging tech*  
 
